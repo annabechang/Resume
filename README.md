@@ -1,4 +1,4 @@
 # Resume
 My latest resume
 
-my website is (https://annabechang.github.io)[https://annabechang.github.io]
+My [website](https://annabechang.github.io) is @ [https://annabechang.github.io](https://annabechang.github.io)
